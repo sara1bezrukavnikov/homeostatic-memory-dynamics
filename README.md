@@ -6,9 +6,9 @@ Simulating the homeostatic recovery or loss of a Hebbian-encoded memory post-per
 
 Build three modules: neuronal dynamics, Hebbian plasticity, and homeostatic regulation.
 
-1: Apply an input `I_m` that drives the network into a stable attractor state (memory formation).
-2: Apply strong inhibition `I_p` that suppresses activity and causes the stored pattern, as well as everything else, to decay.
-3: Apply the homeostatic function while inhibition is still present and see whether restoring the MFR allows the original pattern to re-emerge or not.
+1. Apply an input `I_m` that drives the network into a stable attractor state (memory formation).
+2. Apply strong inhibition `I_p` that suppresses activity and causes the stored pattern, as well as everything else, to decay.
+3. Apply the homeostatic function while inhibition is still present and see whether restoring the MFR allows the original pattern to re-emerge or not.
 
 # Metrics
 
